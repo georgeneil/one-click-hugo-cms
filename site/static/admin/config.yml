@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: georgeneil/one-click-hugo-cms
+  base_url: https://upbeat-colden-12e75a.netlify.com/
   branch: master
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
